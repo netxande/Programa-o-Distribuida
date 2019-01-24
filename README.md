@@ -1,1 +1,1 @@
-# Programa-o-Distribuida
+Operadora
